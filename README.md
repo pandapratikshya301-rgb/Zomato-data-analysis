@@ -101,8 +101,9 @@ Based on the analysis, the following recommendations can be made:
 ✔ Generated business-oriented recommendations from the dataset
 ✔ Applied review text analysis using WordCloud visualization
 
+---
 📁 Project Structure
-
+---
 zomato-data-analysis/
 │
 ├── data/
