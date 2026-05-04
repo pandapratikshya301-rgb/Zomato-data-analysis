@@ -5,7 +5,6 @@ This project was developed as part of my learning and practical exposure to real
 
 📌 Problem Statement
 ---
----
 The restaurant industry in Bangalore is highly competitive. Simply analyzing data is not enough — the real challenge is to identify what drives restaurant success and use data to make actionable predictions.
 
 This project aims to:
