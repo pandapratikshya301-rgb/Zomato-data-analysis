@@ -1,4 +1,4 @@
-#Bangalore Zomato Restaurant Data Analysis
+##Bangalore Zomato Restaurant Data Analysis
 
 A complete exploratory data analysis project on Zomato restaurant data focused on understanding customer preferences, cuisine trends, pricing behavior, and factors affecting restaurant ratings using Python.
 This project was developed as part of my learning and practical exposure to real-world data analysis workflows including data cleaning, visualization, insight extraction, and business recommendation generation.
@@ -88,7 +88,9 @@ The following analyses were performed:
 5. Restaurants offering online ordering tend to receive better customer interaction.
 
 # Business Recommendations
+
 Based on the analysis, the following recommendations can be made:
+
 1.AI-Driven "Skill-Match" Partnership Engine
 2."Data-to-Portfolio" Content Pipeline
 3.Sentiment-Driven Content Improvement
