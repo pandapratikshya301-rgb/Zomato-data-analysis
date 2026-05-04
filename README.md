@@ -60,7 +60,7 @@ The following analyses were performed:
 - Table booking analysis
 - Customer review analysis using WordCloud
 
-# Visualizations
+# 📊 Visualizations
 
 ## Cuisine Popularity Analysis
 <img width="1243" height="641" alt="Screenshot 2026-05-04 152319" src="https://github.com/user-attachments/assets/d296db63-2266-4257-b1e4-2a7a7209cfe8" />
@@ -85,8 +85,7 @@ The following analyses were performed:
 4. Positive customer sentiment strongly correlates with higher ratings.
 5. Restaurants offering online ordering tend to receive better customer interaction.
 
-# Business Recommendations
-
+# 💡 Business Recommendations
 Based on the analysis, the following recommendations can be made:
 
 1.AI-Driven "Skill-Match" Partnership Engine
@@ -101,6 +100,8 @@ Based on the analysis, the following recommendations can be made:
 ✔ Built multiple visualizations for better insight interpretation
 ✔ Generated business-oriented recommendations from the dataset
 ✔ Applied review text analysis using WordCloud visualization
+
+📁 Project Structure
 
 zomato-data-analysis/
 │
@@ -142,7 +143,6 @@ git clone https://github.com/yourusername/zomato-data-analysis.git
 ```bash
 cd zomato-data-analysis
 ```
-
 ---
 
 ## 3. Install Required Libraries
@@ -168,7 +168,7 @@ Open the notebook file:
 notebook/Zomato.ipynb
 ```
 Run all cells sequentially to reproduce the analysis and visualizations.
-
+---
 # 🚀 Future Improvements
 
 - Build a restaurant recommendation system
@@ -178,8 +178,7 @@ Run all cells sequentially to reproduce the analysis and visualizations.
 
 ---
 
-# Learning Outcome
-
+# 🎯 Key Learning Outcomes
 Through this project, I gained practical experience in:
 
 - Data preprocessing
@@ -193,12 +192,11 @@ This project helped me improve my understanding of how data analysis can support
 
 ---
 
-# Author
+👤 Author
 
 Pratikshya Panda
-B.Tech Student | Data Analysis Enthusiast
-
+B.Tech CSE Student | Aspiring Data Analyst
 ---
 
-# License
+📌 License
 This project is created for educational and learning purposes.
