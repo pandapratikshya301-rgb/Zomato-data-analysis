@@ -1,8 +1,8 @@
 🍽️ Zomato Bangalore Restaurant Analysis & Prediction
-
+---
 A complete exploratory data analysis project on Zomato restaurant data focused on understanding customer preferences, cuisine trends, pricing behavior, and factors affecting restaurant ratings using Python.
 This project was developed as part of my learning and practical exposure to real-world data analysis workflows including data cleaning, visualization, insight extraction, and business recommendation generation.
-
+---
 📌 Problem Statement
 
 The restaurant industry in Bangalore is highly competitive. Simply analyzing data is not enough — the real challenge is to identify what drives restaurant success and use data to make actionable predictions.
@@ -12,7 +12,7 @@ This project aims to:
 Analyze key factors affecting restaurant ratings
 Identify patterns in pricing, location, and cuisine
 Build a model to predict restaurant ratings
-
+---
 ## 📊Dataset
 
 Source: https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
@@ -200,3 +200,4 @@ B.Tech CSE Student | Aspiring Data Analyst
 
 📌 License
 This project is created for educational and learning purposes.
+---
