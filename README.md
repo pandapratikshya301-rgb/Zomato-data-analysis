@@ -13,7 +13,7 @@ Analyze key factors affecting restaurant ratings
 Identify patterns in pricing, location, and cuisine
 Build a model to predict restaurant ratings
 
-## Dataset
+## 📊Dataset
 
 Source: https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
 
@@ -28,7 +28,7 @@ The dataset includes information such as:
 - Table booking availability
 - Customer reviews
 
-## Technologies Used
+## 🛠️ Tech Stack
 
 - Python
 - Pandas
@@ -38,8 +38,7 @@ The dataset includes information such as:
 - WordCloud
 - Jupyter Notebook
 
-# Steps Performed in the Project
-
+# ⚙️ Approach
 ## 1. Data Cleaning and Preprocessing
 
 - Removed unnecessary columns
@@ -79,7 +78,7 @@ The following analyses were performed:
 <img width="983" height="532" alt="Screenshot 2026-05-04 163213" src="https://github.com/user-attachments/assets/5ee9e8c9-263c-465e-a8d1-538eeda3e81e" />
 
 
-## Key Insights
+## 📈 Key Insights
 1. Certain cuisines consistently receive higher ratings compared to others.
 2. Restaurants located in high-density urban areas attract more customer engagement.
 3. Mid-range restaurants often perform competitively against premium restaurants.
@@ -125,7 +124,7 @@ zomato-data-analysis/
 ├── requirements.txt
 └── .gitignore
 
-# How to Run the Project
+# 🔗 How to Run
 
 Follow the steps below to run this project on your system.
 
@@ -170,7 +169,7 @@ notebook/Zomato.ipynb
 ```
 Run all cells sequentially to reproduce the analysis and visualizations.
 
-# Future Improvements
+# 🚀 Future Improvements
 
 - Build a restaurant recommendation system
 - Perform sentiment analysis on customer reviews
